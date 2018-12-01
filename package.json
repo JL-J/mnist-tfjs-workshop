@@ -1,0 +1,23 @@
+{
+  "name": "mnist-tfjs-workshop",
+  "version": "1.0.0",
+  "description": "`npm install serve`",
+  "main": "main.js",
+  "dependencies": {
+    "serve": "^10.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawache/mnist-tfjs-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawache/mnist-tfjs-workshop/issues"
+  },
+  "homepage": "https://github.com/jawache/mnist-tfjs-workshop#readme"
+}
